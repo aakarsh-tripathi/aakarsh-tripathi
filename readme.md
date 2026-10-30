@@ -56,7 +56,7 @@ Tools & Technologies
   <a href="https://linkedin.com/in/aakarsh-tripathi06">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/aakarsh-tripathi">
     <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
   </a>
 </p>
